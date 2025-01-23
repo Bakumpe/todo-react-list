@@ -73,6 +73,7 @@ body{
   margin-top: 10px;
   display: flex;
   height: 70%;
+  overflow: hidden;
   overflow-y: scroll;
   text-overflow: ellipsis;
 }
